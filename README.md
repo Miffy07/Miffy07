@@ -5,7 +5,7 @@
 *AI Enthusiast | Software Developer*
 
 Welcome to my GitHub profile! I'm an ambitious Computer Science student at RWTH Aachen University, currently building a strong foundation in software development and technical computer science.
-Right now, I'm expanding my skill set and working on a Library Tracker project for the ADSC! 🚀
+Right now, I'm expanding my skill set and starting my journey to become an AI / ML Engineer! 🚀
 I'm always eager to learn, build, and optimize!
 
 ---
