@@ -37,4 +37,4 @@ I'm always open to connecting with fellow students, developers, or anyone intere
 
 ### 🎉 Fun Fact
 
-**My 5 Stages of Debugging:** 😢 🤨 🤡 🤦‍♂️ 💡
+**My 7 Stages of Debugging:** 😢 🤨 💢 ⏱️ 🤡 🤦‍♂️ 💡
